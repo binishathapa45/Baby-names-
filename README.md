@@ -21,7 +21,7 @@ Sunil
 Raghav
 Suraj
 Arjun
-Girls:
+                    Girls:
 Aishwarya
 Priya
 Sita
@@ -42,8 +42,8 @@ Maya
 Sandhya
 Parbati
 Tanuja
-Indian Baby Names:
-Boys:
+             Indian Baby Names:
+               Boys:
 Aryan
 Vikram
 Rahul
@@ -64,7 +64,7 @@ Krish
 Aarav
 Shiv
 Raghav
-Girls:
+               Girls:
 Aadhya
 Ananya
 Priya
@@ -85,9 +85,8 @@ Nisha
 Komal
 Sakshi
 Ritu
-Pakistani Baby Names:
-Boys:
-Ali
+            Pakistani Baby Names:
+                Boys                   Ali
 Fahad
 Imran
 Zain
@@ -107,7 +106,7 @@ Junaid
 Taimoor
 Mirza
 Zubair
-Girls:
+              Girls:
 Ayesha
 Fatima
 Mariam
@@ -128,8 +127,8 @@ Iqra
 Rabia
 Samina
 Fariha
-Bangladeshi Baby Names:
-Boys:
+          Bangladeshi Baby Names:
+                 Boys:
 Ayaan
 Arif
 Shahin
@@ -150,7 +149,7 @@ Anwar
 Akash
 Akil
 Rashed
-Girls:
+                Girls:
 Ayesha
 Rupa
 Nasreen
@@ -171,8 +170,8 @@ Fatema
 Fariha
 Nilofer
 Amina
-Sri Lankan Baby Names:
-Boys:
+         Sri Lankan Baby Names:
+                Boys:
 Dilan
 Nishan
 Suraj
@@ -193,7 +192,7 @@ Nalin
 Asela
 Harindra
 Kanishka
-Girls:
+                Girls:
 Anjali
 Nadeesha
 Lakmini
@@ -214,8 +213,8 @@ Yamuna
 Malini
 Amara
 Priyanka
-Maldivian Baby Names:
-Boys:
+         Maldivian Baby Names:
+                Boys:
 Aamin
 Imran
 Abdul
@@ -236,7 +235,7 @@ Ashraf
 Nasheed
 Rayyan
 Fareed
-Girls:
+                Girls:
 Fathimath
 Mariyam
 Shaheena
@@ -257,9 +256,9 @@ Ashifa
 Manisha
 Aysha
 Nadiya
-American baby names for boys and girls:
+    American baby names for boys          girls:
 
-Boys:
+                 Boys:
 Mason
 Logan
 Ethan
@@ -270,7 +269,7 @@ Jackson
 Matthew
 Samuel
 David
-Girls:
+                Girls:
 Charlotte
 Amelia
 Chloe
